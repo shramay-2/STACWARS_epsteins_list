@@ -1,0 +1,3 @@
+Warnings,Name,Configuration,Velocity off rod (m/s),Apogee (m),Velocity at deployment (m/s),Optimum delay (s),Max. velocity (m/s),Max. acceleration (m/s²),Time to apogee (s),Flight time (s),Ground hit velocity (m/s)
+"Recovery device deployment at high speed (48.3 m/s):  ""DROGUE CHUTE"" | Recovery device deployment at high speed (34.3 m/s):  ""MAIN CHUTE"" | Recovery device deployment at high speed (72.8 m/s):  ""bruh""",mustafar,1,18.164,4089.44,34.274,23.642,200.428,219.181,40.008,316.112,13.897
+,earth baseline,1,17.877,1197.345,18.128,-1.337,185.489,172.848,15.029,68.52,24.69
